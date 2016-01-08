@@ -10,4 +10,4 @@ Do the following using this repository:
 
 > Towering genius distains a beaten path. It seeks regions hitherto unexplored.
  
- (link)[http://www.abrahamlincolnonline.org/lincoln/speeches/quotes.htm]
+ [link](http://www.abrahamlincolnonline.org/lincoln/speeches/quotes.htm)
